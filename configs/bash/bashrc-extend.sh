@@ -15,3 +15,7 @@ alias ls='ls --color=auto --group-directories-first'
 
 # Tmux with tmux.conf
 alias tmux="tmux -f ~/.config/tmux/tmux.conf"
+
+# nice bindings
+alias b="cd .."
+alias c="clear"
